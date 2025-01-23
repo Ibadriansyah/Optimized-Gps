@@ -2,8 +2,10 @@
 
 
 # Attention
-This is the result of a fork, with no strange intentions, just adding gps.conf for Indonesia
+This is the result of a fork, with no strange intentions, just adding gps.conf for Indonesia 
 
+# Original Repository
+https://github.com/skyrocketingHong/OptmizedGPSConf
 
 - [Global Optimized GPS File Replacer](#global-optimized-gps-file-replacer)
   - [How it works?](#how-it-works)
