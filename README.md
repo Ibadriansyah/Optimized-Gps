@@ -1,5 +1,10 @@
 # Global Optimized GPS File Replacer
 
+
+# Attention
+This is the result of a fork, with no strange intentions, just adding gps.conf for Indonesia
+
+
 - [Global Optimized GPS File Replacer](#global-optimized-gps-file-replacer)
   - [How it works?](#how-it-works)
   - [Requirements](#requirements)
